@@ -1,13 +1,10 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm 許智勛</h1>
+<h3 align="center">I am from taiwan</h3>
 
+- 🔭 I’m currently working on **長榮大學**
 
+- 🌱 I’m currently learning **微積分**
 
-i like exercise
+- 💬 Ask me about **I like exercise**
 
-
-
-
-
-
-
-i am 19 years old
+- ⚡ Fun fact **I think i am funny**
