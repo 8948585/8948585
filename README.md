@@ -1,6 +1,6 @@
 ## Hi there 👋
-
-<!--
+i like exercise
+i am 19 years old
 **8948585/8948585** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
